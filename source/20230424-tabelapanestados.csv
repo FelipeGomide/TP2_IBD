@@ -1,0 +1,521 @@
+idPan;panNome;siglaEstado
+CEMAVE_29.02;(Elaborado) Aves do Cerrado e Pantanal - 2º ciclo;MG
+CEMAVE_29.02;(Elaborado) Aves do Cerrado e Pantanal - 2º ciclo;TO
+CEMAVE_29.02;(Elaborado) Aves do Cerrado e Pantanal - 2º ciclo;GO
+CEMAVE_26.03;Albatrozes e Petréis - 3º ciclo;PR
+CEMAVE_26.03;Albatrozes e Petréis - 3º ciclo;RJ
+CEMAVE_26.03;Albatrozes e Petréis - 3º ciclo;RS
+CEMAVE_26.03;Albatrozes e Petréis - 3º ciclo;SC
+CEMAVE_26.03;Albatrozes e Petréis - 3º ciclo;SP
+CEMAVE_26.03;Albatrozes e Petréis - 3º ciclo;ES
+CEMAVE_27.02;Ararinha-azul - 2º ciclo;BA
+CEMAVE_30.02;Aves da Amazônia - 2º ciclo;AC
+CEMAVE_30.02;Aves da Amazônia - 2º ciclo;AP
+CEMAVE_30.02;Aves da Amazônia - 2º ciclo;AM
+CEMAVE_30.02;Aves da Amazônia - 2º ciclo;MT
+CEMAVE_30.02;Aves da Amazônia - 2º ciclo;PA
+CEMAVE_30.02;Aves da Amazônia - 2º ciclo;RO
+CEMAVE_30.02;Aves da Amazônia - 2º ciclo;RR
+CEMAVE_30.02;Aves da Amazônia - 2º ciclo;TO
+CEMAVE_25.02;Aves da Caatinga - 2º ciclo;AL
+CEMAVE_25.02;Aves da Caatinga - 2º ciclo;BA
+CEMAVE_25.02;Aves da Caatinga - 2º ciclo;CE
+CEMAVE_25.02;Aves da Caatinga - 2º ciclo;PB
+CEMAVE_25.02;Aves da Caatinga - 2º ciclo;PE
+CEMAVE_25.02;Aves da Caatinga - 2º ciclo;PI
+CEMAVE_25.02;Aves da Caatinga - 2º ciclo;RN
+CEMAVE_25.02;Aves da Caatinga - 2º ciclo;MG
+CEMAVE_25.02;Aves da Caatinga - 2º ciclo;SE
+CEMAVE_25.02;Aves da Caatinga - 2º ciclo;MA
+CEMAVE_20.01;Aves da Mata Atlântica;AL
+CEMAVE_20.01;Aves da Mata Atlântica;BA
+CEMAVE_20.01;Aves da Mata Atlântica;DF
+CEMAVE_20.01;Aves da Mata Atlântica;ES
+CEMAVE_20.01;Aves da Mata Atlântica;CE
+CEMAVE_20.01;Aves da Mata Atlântica;GO
+CEMAVE_20.01;Aves da Mata Atlântica;MS
+CEMAVE_20.01;Aves da Mata Atlântica;MG
+CEMAVE_20.01;Aves da Mata Atlântica;PB
+CEMAVE_20.01;Aves da Mata Atlântica;PE
+CEMAVE_20.01;Aves da Mata Atlântica;PI
+CEMAVE_20.01;Aves da Mata Atlântica;RJ
+CEMAVE_20.01;Aves da Mata Atlântica;RN
+CEMAVE_20.01;Aves da Mata Atlântica;RS
+CEMAVE_20.01;Aves da Mata Atlântica;SC
+CEMAVE_20.01;Aves da Mata Atlântica;SP
+CEMAVE_20.01;Aves da Mata Atlântica;SE
+CEMAVE_22.02;Aves dos Campos Sulinos - 2º ciclo;PR
+CEMAVE_22.02;Aves dos Campos Sulinos - 2º ciclo;RS
+CEMAVE_22.02;Aves dos Campos Sulinos - 2º ciclo;SC
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;AP
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;PA
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;MA
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;PI
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;RN
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;PB
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;PE
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;AL
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;SE
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;BA
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;RJ
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;SP
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;PR
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;SC
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;RS
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;MT
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;MS
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;RO
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;RR
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;AM
+CEMAVE_24.01;Aves Marinhas;AL
+CEMAVE_24.01;Aves Marinhas;AP
+CEMAVE_24.01;Aves Marinhas;BA
+CEMAVE_24.01;Aves Marinhas;CE
+CEMAVE_24.01;Aves Marinhas;ES
+CEMAVE_24.01;Aves Marinhas;MA
+CEMAVE_24.01;Aves Marinhas;PA
+CEMAVE_24.01;Aves Marinhas;PB
+CEMAVE_24.01;Aves Marinhas;PR
+CEMAVE_24.01;Aves Marinhas;PE
+CEMAVE_24.01;Aves Marinhas;PI
+CEMAVE_24.01;Aves Marinhas;RJ
+CEMAVE_24.01;Aves Marinhas;RN
+CEMAVE_24.01;Aves Marinhas;RS
+CEMAVE_24.01;Aves Marinhas;SC
+CEMAVE_24.01;Aves Marinhas;SP
+CEMAVE_24.01;Aves Marinhas;SE
+CEMAVE_21.02;Papagaios - 2º ciclo;BA
+CEMAVE_21.02;Papagaios - 2º ciclo;DF
+CEMAVE_21.02;Papagaios - 2º ciclo;ES
+CEMAVE_21.02;Papagaios - 2º ciclo;GO
+CEMAVE_21.02;Papagaios - 2º ciclo;MT
+CEMAVE_21.02;Papagaios - 2º ciclo;MS
+CEMAVE_21.02;Papagaios - 2º ciclo;MG
+CEMAVE_21.02;Papagaios - 2º ciclo;PR
+CEMAVE_21.02;Papagaios - 2º ciclo;RJ
+CEMAVE_21.02;Papagaios - 2º ciclo;RS
+CEMAVE_21.02;Papagaios - 2º ciclo;SC
+CEMAVE_21.02;Papagaios - 2º ciclo;SP
+CEMAVE_23.02;Pato-mergulhão - 2º ciclo;GO
+CEMAVE_23.02;Pato-mergulhão - 2º ciclo;MG
+CEMAVE_23.02;Pato-mergulhão - 2º ciclo;TO
+CENAP_12.02;Pequenos Felinos - 2º ciclo;AC
+CENAP_12.02;Pequenos Felinos - 2º ciclo;AL
+CENAP_12.02;Pequenos Felinos - 2º ciclo;AP
+CENAP_12.02;Pequenos Felinos - 2º ciclo;AM
+CENAP_12.02;Pequenos Felinos - 2º ciclo;BA
+CENAP_12.02;Pequenos Felinos - 2º ciclo;CE
+CENAP_12.02;Pequenos Felinos - 2º ciclo;ES
+CENAP_12.02;Pequenos Felinos - 2º ciclo;DF
+CENAP_12.02;Pequenos Felinos - 2º ciclo;GO
+CENAP_12.02;Pequenos Felinos - 2º ciclo;MA
+CENAP_12.02;Pequenos Felinos - 2º ciclo;MT
+CENAP_12.02;Pequenos Felinos - 2º ciclo;MS
+CENAP_12.02;Pequenos Felinos - 2º ciclo;MG
+CENAP_12.02;Pequenos Felinos - 2º ciclo;PA
+CENAP_12.02;Pequenos Felinos - 2º ciclo;PB
+CENAP_12.02;Pequenos Felinos - 2º ciclo;PE
+CENAP_12.02;Pequenos Felinos - 2º ciclo;PI
+CENAP_12.02;Pequenos Felinos - 2º ciclo;RJ
+CENAP_12.02;Pequenos Felinos - 2º ciclo;RN
+CENAP_12.02;Pequenos Felinos - 2º ciclo;RS
+CENAP_12.02;Pequenos Felinos - 2º ciclo;RO
+CENAP_12.02;Pequenos Felinos - 2º ciclo;RR
+CENAP_12.02;Pequenos Felinos - 2º ciclo;SC
+CENAP_12.02;Pequenos Felinos - 2º ciclo;SP
+CENAP_12.02;Pequenos Felinos - 2º ciclo;SE
+CENAP_12.02;Pequenos Felinos - 2º ciclo;TO
+CENAP_13.01;Pequenos Mamíferos de Áreas Abertas;AL
+CENAP_13.01;Pequenos Mamíferos de Áreas Abertas;BA
+CENAP_13.01;Pequenos Mamíferos de Áreas Abertas;CE
+CENAP_13.01;Pequenos Mamíferos de Áreas Abertas;DF
+CENAP_13.01;Pequenos Mamíferos de Áreas Abertas;MA
+CENAP_13.01;Pequenos Mamíferos de Áreas Abertas;GO
+CENAP_13.01;Pequenos Mamíferos de Áreas Abertas;MT
+CENAP_13.01;Pequenos Mamíferos de Áreas Abertas;MS
+CENAP_13.01;Pequenos Mamíferos de Áreas Abertas;MG
+CENAP_13.01;Pequenos Mamíferos de Áreas Abertas;PB
+CENAP_13.01;Pequenos Mamíferos de Áreas Abertas;PE
+CENAP_13.01;Pequenos Mamíferos de Áreas Abertas;PI
+CENAP_13.01;Pequenos Mamíferos de Áreas Abertas;RS
+CENAP_13.01;Pequenos Mamíferos de Áreas Abertas;SC
+CENAP_13.01;Pequenos Mamíferos de Áreas Abertas;SP
+CENAP_13.01;Pequenos Mamíferos de Áreas Abertas;SE
+CENAP_13.01;Pequenos Mamíferos de Áreas Abertas;TO
+CENAP_14.01;Pequenos Mamíferos de Áreas Florestais;AC
+CENAP_14.01;Pequenos Mamíferos de Áreas Florestais;AL
+CENAP_14.01;Pequenos Mamíferos de Áreas Florestais;BA
+CENAP_14.01;Pequenos Mamíferos de Áreas Florestais;DF
+CENAP_14.01;Pequenos Mamíferos de Áreas Florestais;ES
+CENAP_14.01;Pequenos Mamíferos de Áreas Florestais;MG
+CENAP_14.01;Pequenos Mamíferos de Áreas Florestais;MT
+CENAP_14.01;Pequenos Mamíferos de Áreas Florestais;PB
+CENAP_14.01;Pequenos Mamíferos de Áreas Florestais;PE
+CENAP_14.01;Pequenos Mamíferos de Áreas Florestais;RJ
+CENAP_14.01;Pequenos Mamíferos de Áreas Florestais;SP
+CENAP_14.01;Pequenos Mamíferos de Áreas Florestais;SE
+CENAP_14.01;Pequenos Mamíferos de Áreas Florestais;SC
+CENAP_14.01;Pequenos Mamíferos de Áreas Florestais;RO
+CENAP_10.01;Canídeos;AC
+CENAP_10.01;Canídeos;AL
+CENAP_10.01;Canídeos;AP
+CENAP_10.01;Canídeos;AM
+CENAP_10.01;Canídeos;BA
+CENAP_10.01;Canídeos;DF
+CENAP_10.01;Canídeos;ES
+CENAP_10.01;Canídeos;GO
+CENAP_10.01;Canídeos;MA
+CENAP_10.01;Canídeos;MT
+CENAP_10.01;Canídeos;MS
+CENAP_10.01;Canídeos;MG
+CENAP_10.01;Canídeos;PA
+CENAP_10.01;Canídeos;PI
+CENAP_10.01;Canídeos;RJ
+CENAP_10.01;Canídeos;RO
+CENAP_10.01;Canídeos;RS
+CENAP_10.01;Canídeos;RR
+CENAP_10.01;Canídeos;SC
+CENAP_10.01;Canídeos;SP
+CENAP_10.01;Canídeos;SE
+CENAP_10.01;Canídeos;TO
+CENAP_09.01;Grandes Felinos;AC
+CENAP_09.01;Grandes Felinos;AP
+CENAP_09.01;Grandes Felinos;AM
+CENAP_09.01;Grandes Felinos;BA
+CENAP_09.01;Grandes Felinos;CE
+CENAP_09.01;Grandes Felinos;DF
+CENAP_09.01;Grandes Felinos;ES
+CENAP_09.01;Grandes Felinos;GO
+CENAP_09.01;Grandes Felinos;MA
+CENAP_09.01;Grandes Felinos;MT
+CENAP_09.01;Grandes Felinos;MS
+CENAP_09.01;Grandes Felinos;MG
+CENAP_09.01;Grandes Felinos;PA
+CENAP_09.01;Grandes Felinos;PR
+CENAP_09.01;Grandes Felinos;PI
+CENAP_09.01;Grandes Felinos;RJ
+CENAP_09.01;Grandes Felinos;RN
+CENAP_09.01;Grandes Felinos;RS
+CENAP_09.01;Grandes Felinos;RO
+CENAP_09.01;Grandes Felinos;RR
+CENAP_09.01;Grandes Felinos;SC
+CENAP_09.01;Grandes Felinos;SP
+CENAP_09.01;Grandes Felinos;TO
+CENAP_09.01;Grandes Felinos;SE
+CENAP_09.01;Grandes Felinos;PE
+CENAP_09.01;Grandes Felinos;PB
+CENAP_11.01;Ungulados;AC
+CENAP_11.01;Ungulados;AP
+CENAP_11.01;Ungulados;AM
+CENAP_11.01;Ungulados;BA
+CENAP_11.01;Ungulados;ES
+CENAP_11.01;Ungulados;GO
+CENAP_11.01;Ungulados;DF
+CENAP_11.01;Ungulados;MA
+CENAP_11.01;Ungulados;MT
+CENAP_11.01;Ungulados;MS
+CENAP_11.01;Ungulados;MG
+CENAP_11.01;Ungulados;PA
+CENAP_11.01;Ungulados;PR
+CENAP_11.01;Ungulados;PI
+CENAP_11.01;Ungulados;RJ
+CENAP_11.01;Ungulados;RS
+CENAP_11.01;Ungulados;RO
+CENAP_11.01;Ungulados;RR
+CENAP_11.01;Ungulados;SC
+CENAP_11.01;Ungulados;SP
+CENAP_11.01;Ungulados;TO
+CENAP_08.02;Ariranha - 2º ciclo;AM
+CENAP_08.02;Ariranha - 2º ciclo;AP
+CENAP_08.02;Ariranha - 2º ciclo;MT
+CENAP_08.02;Ariranha - 2º ciclo;MS
+CENAP_08.02;Ariranha - 2º ciclo;PA
+CENAP_08.02;Ariranha - 2º ciclo;RO
+CENAP_08.02;Ariranha - 2º ciclo;TO
+CEPAM_02.01;Peixes Amazônicos;AM
+CEPAM_02.01;Peixes Amazônicos;PA
+CEPAM_02.01;Peixes Amazônicos;RR
+CEPAM_02.01;Peixes Amazônicos;AP
+CEPAM_02.01;Peixes Amazônicos;MT
+CEPSUL_04.02;(Previsto) Tubarões - 2º ciclo;AP
+CEPSUL_04.02;(Previsto) Tubarões - 2º ciclo;BA
+CEPSUL_04.02;(Previsto) Tubarões - 2º ciclo;CE
+CEPSUL_04.02;(Previsto) Tubarões - 2º ciclo;ES
+CEPSUL_04.02;(Previsto) Tubarões - 2º ciclo;MA
+CEPSUL_04.02;(Previsto) Tubarões - 2º ciclo;PA
+CEPSUL_04.02;(Previsto) Tubarões - 2º ciclo;PB
+CEPSUL_04.02;(Previsto) Tubarões - 2º ciclo;PR
+CEPSUL_04.02;(Previsto) Tubarões - 2º ciclo;PE
+CEPSUL_04.02;(Previsto) Tubarões - 2º ciclo;PI
+CEPSUL_04.02;(Previsto) Tubarões - 2º ciclo;RJ
+CEPSUL_04.02;(Previsto) Tubarões - 2º ciclo;RN
+CEPSUL_04.02;(Previsto) Tubarões - 2º ciclo;RS
+CEPSUL_04.02;(Previsto) Tubarões - 2º ciclo;SC
+CEPSUL_04.02;(Previsto) Tubarões - 2º ciclo;SP
+CEPSUL_04.02;(Previsto) Tubarões - 2º ciclo;SE
+CEPSUL_02.01;Corais;AL
+CEPSUL_02.01;Corais;CE
+CEPSUL_02.01;Corais;BA
+CEPSUL_02.01;Corais;ES
+CEPSUL_02.01;Corais;MA
+CEPSUL_02.01;Corais;PA
+CEPSUL_02.01;Corais;PB
+CEPSUL_02.01;Corais;PR
+CEPSUL_02.01;Corais;PI
+CEPSUL_02.01;Corais;PE
+CEPSUL_02.01;Corais;RJ
+CEPSUL_02.01;Corais;RN
+CEPSUL_02.01;Corais;RS
+CEPSUL_02.01;Corais;SC
+CEPSUL_02.01;Corais;SP
+CEPSUL_02.01;Corais;SE
+CEPSUL_03.01;Lagoas do Sul;SC
+CEPSUL_03.01;Lagoas do Sul;RS
+CEPTA_07.02;Rivulideos - 2º ciclo;SP
+CEPTA_07.02;Rivulideos - 2º ciclo;DF
+CEPTA_07.02;Rivulideos - 2º ciclo;MA
+CEPTA_07.02;Rivulideos - 2º ciclo;MS
+CEPTA_07.02;Rivulideos - 2º ciclo;PR
+CEPTA_07.02;Rivulideos - 2º ciclo;BA
+CEPTA_07.02;Rivulideos - 2º ciclo;CE
+CEPTA_07.02;Rivulideos - 2º ciclo;GO
+CEPTA_07.02;Rivulideos - 2º ciclo;ES
+CEPTA_07.02;Rivulideos - 2º ciclo;MT
+CEPTA_07.02;Rivulideos - 2º ciclo;MG
+CEPTA_07.02;Rivulideos - 2º ciclo;PA
+CEPTA_07.02;Rivulideos - 2º ciclo;RJ
+CEPTA_07.02;Rivulideos - 2º ciclo;PE
+CEPTA_07.02;Rivulideos - 2º ciclo;RS
+CEPTA_07.02;Rivulideos - 2º ciclo;TO
+CEPTA_07.02;Rivulideos - 2º ciclo;SC
+CEPTA_09.02;(Previsto) Mogi/Pardo/Sapucaí-Mirim/Grande - 2º ciclo;MG
+CEPTA_09.02;(Previsto) Mogi/Pardo/Sapucaí-Mirim/Grande - 2º ciclo;SP
+CEPTA_09.02;(Previsto) Mogi/Pardo/Sapucaí-Mirim/Grande - 2º ciclo;PR
+CEPTA_09.02;(Previsto) Mogi/Pardo/Sapucaí-Mirim/Grande - 2º ciclo;MS
+CEPTA_09.02;(Previsto) Mogi/Pardo/Sapucaí-Mirim/Grande - 2º ciclo;MT
+CEPTA_09.02;(Previsto) Mogi/Pardo/Sapucaí-Mirim/Grande - 2º ciclo;GO
+CEPTA_09.02;(Previsto) Mogi/Pardo/Sapucaí-Mirim/Grande - 2º ciclo;SC
+CEPTA_08.02;(Elaborado) São Francisco - 2º ciclo;AL
+CEPTA_08.02;(Elaborado) São Francisco - 2º ciclo;BA
+CEPTA_08.02;(Elaborado) São Francisco - 2º ciclo;DF
+CEPTA_08.02;(Elaborado) São Francisco - 2º ciclo;GO
+CEPTA_08.02;(Elaborado) São Francisco - 2º ciclo;SE
+CEPTA_08.02;(Elaborado) São Francisco - 2º ciclo;MG
+CEPTA_08.02;(Elaborado) São Francisco - 2º ciclo;PE
+CEPTA_05.01;Baixo Iguaçu;PR
+CEPTA_01.01;Paraíba do Sul;MG
+CEPTA_01.01;Paraíba do Sul;SP
+CEPTA_01.01;Paraíba do Sul;RJ
+CEPTA_06.01;Peixes e Eglas da Mata Atlântica;BA
+CEPTA_06.01;Peixes e Eglas da Mata Atlântica;ES
+CEPTA_06.01;Peixes e Eglas da Mata Atlântica;MG
+CEPTA_06.01;Peixes e Eglas da Mata Atlântica;RJ
+CEPTA_06.01;Peixes e Eglas da Mata Atlântica;CE
+CEPTA_06.01;Peixes e Eglas da Mata Atlântica;SP
+CEPTA_06.01;Peixes e Eglas da Mata Atlântica;SC
+CEPTA_06.01;Peixes e Eglas da Mata Atlântica;RS
+CEPTA_06.01;Peixes e Eglas da Mata Atlântica;MS
+CEPTA_06.01;Peixes e Eglas da Mata Atlântica;PI
+CEPTA_06.01;Peixes e Eglas da Mata Atlântica;RN
+CEPTA_06.01;Peixes e Eglas da Mata Atlântica;PB
+CEPTA_06.01;Peixes e Eglas da Mata Atlântica;PE
+CEPTA_06.01;Peixes e Eglas da Mata Atlântica;AL
+CEPTA_06.01;Peixes e Eglas da Mata Atlântica;SE
+CEPTA_06.01;Peixes e Eglas da Mata Atlântica;PR
+CEPTA_06.01;Peixes e Eglas da Mata Atlântica;GO
+CMA_06.01;Cetáceos Marinhos;AP
+CMA_06.01;Cetáceos Marinhos;AL
+CMA_06.01;Cetáceos Marinhos;BA
+CMA_06.01;Cetáceos Marinhos;CE
+CMA_06.01;Cetáceos Marinhos;ES
+CMA_06.01;Cetáceos Marinhos;MA
+CMA_06.01;Cetáceos Marinhos;PA
+CMA_06.01;Cetáceos Marinhos;PB
+CMA_06.01;Cetáceos Marinhos;PR
+CMA_06.01;Cetáceos Marinhos;PE
+CMA_06.01;Cetáceos Marinhos;PI
+CMA_06.01;Cetáceos Marinhos;RJ
+CMA_06.01;Cetáceos Marinhos;RN
+CMA_06.01;Cetáceos Marinhos;RS
+CMA_06.01;Cetáceos Marinhos;SC
+CMA_06.01;Cetáceos Marinhos;SP
+CMA_06.01;Cetáceos Marinhos;SE
+CMA_05.01;Mamíferos Aquáticos Amazônicos;AC
+CMA_05.01;Mamíferos Aquáticos Amazônicos;AP
+CMA_05.01;Mamíferos Aquáticos Amazônicos;AM
+CMA_05.01;Mamíferos Aquáticos Amazônicos;GO
+CMA_05.01;Mamíferos Aquáticos Amazônicos;MA
+CMA_05.01;Mamíferos Aquáticos Amazônicos;MT
+CMA_05.01;Mamíferos Aquáticos Amazônicos;PA
+CMA_05.01;Mamíferos Aquáticos Amazônicos;RO
+CMA_05.01;Mamíferos Aquáticos Amazônicos;RR
+CMA_05.01;Mamíferos Aquáticos Amazônicos;TO
+CMA_07.02;Toninha - 2º ciclo;ES
+CMA_07.02;Toninha - 2º ciclo;PR
+CMA_07.02;Toninha - 2º ciclo;RJ
+CMA_07.02;Toninha - 2º ciclo;RS
+CMA_07.02;Toninha - 2º ciclo;SC
+CMA_07.02;Toninha - 2º ciclo;SP
+CEPENE_01.01;Peixe-boi Marinho;AL
+CEPENE_01.01;Peixe-boi Marinho;PE
+CEPENE_01.01;Peixe-boi Marinho;AP
+CEPENE_01.01;Peixe-boi Marinho;MA
+CEPENE_01.01;Peixe-boi Marinho;PA
+CEPENE_01.01;Peixe-boi Marinho;PB
+CEPENE_01.01;Peixe-boi Marinho;PI
+CEPENE_01.01;Peixe-boi Marinho;CE
+CEPENE_01.01;Peixe-boi Marinho;RN
+CNPT_01.01;(Finalizado) Manguezal;AL
+CNPT_01.01;(Finalizado) Manguezal;AP
+CNPT_01.01;(Finalizado) Manguezal;BA
+CNPT_01.01;(Finalizado) Manguezal;CE
+CNPT_01.01;(Finalizado) Manguezal;ES
+CNPT_01.01;(Finalizado) Manguezal;MA
+CNPT_01.01;(Finalizado) Manguezal;PA
+CNPT_01.01;(Finalizado) Manguezal;PB
+CNPT_01.01;(Finalizado) Manguezal;PR
+CNPT_01.01;(Finalizado) Manguezal;PE
+CNPT_01.01;(Finalizado) Manguezal;PI
+CNPT_01.01;(Finalizado) Manguezal;RJ
+CNPT_01.01;(Finalizado) Manguezal;RN
+CNPT_01.01;(Finalizado) Manguezal;SC
+CNPT_01.01;(Finalizado) Manguezal;SP
+CNPT_01.01;(Finalizado) Manguezal;SE
+CPB_07.01;Primatas Amazônicos;AC
+CPB_07.01;Primatas Amazônicos;AM
+CPB_07.01;Primatas Amazônicos;MA
+CPB_07.01;Primatas Amazônicos;MT
+CPB_07.01;Primatas Amazônicos;PA
+CPB_07.01;Primatas Amazônicos;RO
+CPB_07.01;Primatas Amazônicos;RR
+CPB_07.01;Primatas Amazônicos;TO
+CPB_08.02;Primatas do Nordeste - 2º ciclo;AL
+CPB_08.02;Primatas do Nordeste - 2º ciclo;BA
+CPB_08.02;Primatas do Nordeste - 2º ciclo;CE
+CPB_08.02;Primatas do Nordeste - 2º ciclo;MA
+CPB_08.02;Primatas do Nordeste - 2º ciclo;PB
+CPB_08.02;Primatas do Nordeste - 2º ciclo;PE
+CPB_08.02;Primatas do Nordeste - 2º ciclo;PI
+CPB_08.02;Primatas do Nordeste - 2º ciclo;RN
+CPB_08.02;Primatas do Nordeste - 2º ciclo;SE
+CPB_09.02;Sauim-de-coleira - 2º ciclo;AM
+CPB_11.01;Tamanduá-bandeira e Tatus;MT
+CPB_11.01;Tamanduá-bandeira e Tatus;MS
+CPB_11.01;Tamanduá-bandeira e Tatus;MG
+CPB_11.01;Tamanduá-bandeira e Tatus;RN
+CPB_11.01;Tamanduá-bandeira e Tatus;AC
+CPB_11.01;Tamanduá-bandeira e Tatus;AL
+CPB_11.01;Tamanduá-bandeira e Tatus;AP
+CPB_11.01;Tamanduá-bandeira e Tatus;AM
+CPB_11.01;Tamanduá-bandeira e Tatus;BA
+CPB_11.01;Tamanduá-bandeira e Tatus;CE
+CPB_11.01;Tamanduá-bandeira e Tatus;DF
+CPB_11.01;Tamanduá-bandeira e Tatus;ES
+CPB_11.01;Tamanduá-bandeira e Tatus;GO
+CPB_11.01;Tamanduá-bandeira e Tatus;MA
+CPB_11.01;Tamanduá-bandeira e Tatus;PA
+CPB_11.01;Tamanduá-bandeira e Tatus;PB
+CPB_11.01;Tamanduá-bandeira e Tatus;PR
+CPB_11.01;Tamanduá-bandeira e Tatus;PE
+CPB_11.01;Tamanduá-bandeira e Tatus;PI
+CPB_11.01;Tamanduá-bandeira e Tatus;RJ
+CPB_11.01;Tamanduá-bandeira e Tatus;RO
+CPB_11.01;Tamanduá-bandeira e Tatus;RR
+CPB_11.01;Tamanduá-bandeira e Tatus;SP
+CPB_11.01;Tamanduá-bandeira e Tatus;SE
+CPB_11.01;Tamanduá-bandeira e Tatus;TO
+RAN_07.01;CERPAN;BA
+RAN_07.01;CERPAN;GO
+RAN_07.01;CERPAN;MT
+RAN_07.01;CERPAN;MS
+RAN_07.01;CERPAN;MG
+RAN_07.01;CERPAN;PA
+RAN_07.01;CERPAN;PI
+RAN_07.01;CERPAN;PR
+RAN_07.01;CERPAN;RO
+RAN_07.01;CERPAN;SP
+RAN_07.01;CERPAN;TO
+RAN_07.01;CERPAN;MA
+RAN_11.02;(Previsto) Herpetofauna da MA do Sudeste - 2º ciclo;MG
+RAN_11.02;(Previsto) Herpetofauna da MA do Sudeste - 2º ciclo;RJ
+RAN_11.02;(Previsto) Herpetofauna da MA do Sudeste - 2º ciclo;SP
+RAN_11.02;(Previsto) Herpetofauna da MA do Sudeste - 2º ciclo;ES
+RAN_08.02;Herpetofauna do Espinhaço Mineiro - 2º ciclo;MG
+RAN_10.02;Herpetofauna do Nordeste - 2º ciclo;AL
+RAN_10.02;Herpetofauna do Nordeste - 2º ciclo;BA
+RAN_10.02;Herpetofauna do Nordeste - 2º ciclo;CE
+RAN_10.02;Herpetofauna do Nordeste - 2º ciclo;MA
+RAN_10.02;Herpetofauna do Nordeste - 2º ciclo;PB
+RAN_10.02;Herpetofauna do Nordeste - 2º ciclo;PE
+RAN_10.02;Herpetofauna do Nordeste - 2º ciclo;PI
+RAN_10.02;Herpetofauna do Nordeste - 2º ciclo;RN
+RAN_10.02;Herpetofauna do Nordeste - 2º ciclo;SE
+RAN_09.02;Herpetofauna do Sul - 2º ciclo;PR
+RAN_09.02;Herpetofauna do Sul - 2º ciclo;RS
+RAN_09.02;Herpetofauna do Sul - 2º ciclo;SC
+TAMAR_02.02;Tartarugas Marinhas - 2º ciclo;AL
+TAMAR_02.02;Tartarugas Marinhas - 2º ciclo;AP
+TAMAR_02.02;Tartarugas Marinhas - 2º ciclo;BA
+TAMAR_02.02;Tartarugas Marinhas - 2º ciclo;CE
+TAMAR_02.02;Tartarugas Marinhas - 2º ciclo;ES
+TAMAR_02.02;Tartarugas Marinhas - 2º ciclo;MA
+TAMAR_02.02;Tartarugas Marinhas - 2º ciclo;PA
+TAMAR_02.02;Tartarugas Marinhas - 2º ciclo;PB
+TAMAR_02.02;Tartarugas Marinhas - 2º ciclo;PR
+TAMAR_02.02;Tartarugas Marinhas - 2º ciclo;PE
+TAMAR_02.02;Tartarugas Marinhas - 2º ciclo;PI
+TAMAR_02.02;Tartarugas Marinhas - 2º ciclo;RJ
+TAMAR_02.02;Tartarugas Marinhas - 2º ciclo;RN
+TAMAR_02.02;Tartarugas Marinhas - 2º ciclo;RS
+TAMAR_02.02;Tartarugas Marinhas - 2º ciclo;SC
+TAMAR_02.02;Tartarugas Marinhas - 2º ciclo;SE
+CECAV_03.01;Cavernas do Brasil; 
+CBC_02.01;Insetos Polinizadores;AL
+CBC_02.01;Insetos Polinizadores;BA
+CBC_02.01;Insetos Polinizadores;CE
+CBC_02.01;Insetos Polinizadores;DF
+CBC_02.01;Insetos Polinizadores;ES
+CBC_02.01;Insetos Polinizadores;GO
+CBC_02.01;Insetos Polinizadores;MA
+CBC_02.01;Insetos Polinizadores;MG
+CBC_02.01;Insetos Polinizadores;PA
+CBC_02.01;Insetos Polinizadores;PR
+CBC_02.01;Insetos Polinizadores;PE
+CBC_02.01;Insetos Polinizadores;PI
+CBC_02.01;Insetos Polinizadores;RJ
+CBC_02.01;Insetos Polinizadores;RN
+CBC_02.01;Insetos Polinizadores;RS
+CBC_02.01;Insetos Polinizadores;SP
+CBC_02.01;Insetos Polinizadores;SE
+CBC_02.01;Insetos Polinizadores;TO
+CBC_02.01;Insetos Polinizadores;SC
+CBC_02.01;Insetos Polinizadores;PB
+CBC_02.01;Insetos Polinizadores;MT
+CBC_02.01;Insetos Polinizadores;MS
+CECAV_03.01;Cavernas do Brasil;AC
+CECAV_03.01;Cavernas do Brasil;AL
+CECAV_03.01;Cavernas do Brasil;AP
+CECAV_03.01;Cavernas do Brasil;AM
+CECAV_03.01;Cavernas do Brasil;BA
+CECAV_03.01;Cavernas do Brasil;CE
+CECAV_03.01;Cavernas do Brasil;ES
+CECAV_03.01;Cavernas do Brasil;DF
+CECAV_03.01;Cavernas do Brasil;GO
+CECAV_03.01;Cavernas do Brasil;MA
+CECAV_03.01;Cavernas do Brasil;MT
+CECAV_03.01;Cavernas do Brasil;MS
+CECAV_03.01;Cavernas do Brasil;MG
+CECAV_03.01;Cavernas do Brasil;PA
+CECAV_03.01;Cavernas do Brasil;PB
+CECAV_03.01;Cavernas do Brasil;PE
+CECAV_03.01;Cavernas do Brasil;PI
+CECAV_03.01;Cavernas do Brasil;PR
+CECAV_03.01;Cavernas do Brasil;RJ
+CECAV_03.01;Cavernas do Brasil;RN
+CECAV_03.01;Cavernas do Brasil;RS
+CECAV_03.01;Cavernas do Brasil;RO
+CECAV_03.01;Cavernas do Brasil;RR
+CECAV_03.01;Cavernas do Brasil;SC
+CECAV_03.01;Cavernas do Brasil;SP
+CECAV_03.01;Cavernas do Brasil;SE
+CECAV_03.01;Cavernas do Brasil;TO

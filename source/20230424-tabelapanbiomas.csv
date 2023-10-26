@@ -1,0 +1,227 @@
+idPan;panNome;panBioma
+CBC_01.01;(Finalizado) Lepidópteros;Amazônia
+CBC_01.01;(Finalizado) Lepidópteros;Caatinga
+CBC_01.01;(Finalizado) Lepidópteros;Cerrado
+CBC_01.01;(Finalizado) Lepidópteros;Mata Atlântica
+CBC_01.01;(Finalizado) Lepidópteros;Pampa
+CBC_01.01;(Finalizado) Lepidópteros;Pantanal
+CBC_02.01;Insetos Polinizadores;Amazônia
+CBC_02.01;Insetos Polinizadores;Caatinga
+CBC_02.01;Insetos Polinizadores;Cerrado
+CBC_02.01;Insetos Polinizadores;Mata Atlântica
+CBC_02.01;Insetos Polinizadores;Pampa
+CECAV_01.01;(Finalizado) Morceguinho-do-cerrado;Cerrado
+CECAV_02.01;(Finalizado) Cavernas do Rio São Francisco;Cerrado
+CECAV_02.01;(Finalizado) Cavernas do Rio São Francisco;Caatinga
+CECAV_02.01;(Finalizado) Cavernas do Rio São Francisco;Mata Atlântica
+CECAV_03.01;Cavernas do Brasil;Amazônia
+CECAV_03.01;Cavernas do Brasil;Caatinga
+CECAV_03.01;Cavernas do Brasil;Cerrado
+CECAV_03.01;Cavernas do Brasil;Mata Atlântica
+CECAV_03.01;Cavernas do Brasil;Pampa
+CECAV_03.01;Cavernas do Brasil;Pantanal
+CECAV_03.01;Cavernas do Brasil;Marinho
+CEMAVE_01.01;(Finalizado) Mutum-do-sudeste;Mata Atlântica
+CEMAVE_02.01;(Finalizado) Albatrozes e Petréis - 1º ciclo;Marinho
+CEMAVE_03.01;(Finalizado) Arara-azul-de-Lear - 1º ciclo;Caatinga
+CEMAVE_04.01;(Finalizado) Aves de Rapina;Cerrado
+CEMAVE_04.01;(Finalizado) Aves de Rapina;Mata Atlântica
+CEMAVE_04.01;(Finalizado) Aves de Rapina;Pantanal
+CEMAVE_04.01;(Finalizado) Aves de Rapina;Amazônia
+CEMAVE_04.01;(Finalizado) Aves de Rapina;Pampa
+CEMAVE_05.01;(Finalizado) Galliformes;Mata Atlântica
+CEMAVE_05.01;(Finalizado) Galliformes;Amazônia
+CEMAVE_05.01;(Finalizado) Galliformes;Caatinga
+CEMAVE_05.01;(Finalizado) Galliformes;Cerrado
+CEMAVE_06.01;(Finalizado) Mutum-de-alagoas;Mata Atlântica
+CEMAVE_07.01;(Finalizado) Formigueiro-do-litoral;Mata Atlântica
+CEMAVE_08.01;(Finalizado) Soldadinho-do-araripe - 1º ciclo;Caatinga
+CEMAVE_09.01;(Finalizado) Papagaios da Mata Atlântica - 1º ciclo;Mata Atlântica
+CEMAVE_10.02;(Finalizado) Albatrozes e Petréis - 2º ciclo;Marinho
+CEMAVE_11.01;(Finalizado) Ararinha-azul - 1º ciclo;Caatinga
+CEMAVE_12.01;(Finalizado) Passeriformes dos Campos Sulinos - 1º ciclo;Mata Atlântica
+CEMAVE_12.01;(Finalizado) Passeriformes dos Campos Sulinos - 1º ciclo;Pampa
+CEMAVE_13.01;(Finalizado) Aves da Caatinga - 1º ciclo;Caatinga
+CEMAVE_14.01;(Finalizado) Aves Limícolas Migratórias - 1º ciclo;Amazônia
+CEMAVE_14.01;(Finalizado) Aves Limícolas Migratórias - 1º ciclo;Cerrado
+CEMAVE_14.01;(Finalizado) Aves Limícolas Migratórias - 1º ciclo;Marinho
+CEMAVE_14.01;(Finalizado) Aves Limícolas Migratórias - 1º ciclo;Mata Atlântica
+CEMAVE_14.01;(Finalizado) Aves Limícolas Migratórias - 1º ciclo;Pantanal
+CEMAVE_14.01;(Finalizado) Aves Limícolas Migratórias - 1º ciclo;Pampa
+CEMAVE_15.02;(Finalizado) Arara-azul-de-Lear - 2º ciclo;Caatinga
+CEMAVE_16.01;(Finalizado) Aves da Amazônia - 1º ciclo;Amazônia
+CEMAVE_17.01;(Finalizado) Aves do Cerrado e Pantanal - 1º ciclo;Cerrado
+CEMAVE_17.01;(Finalizado) Aves do Cerrado e Pantanal - 1º ciclo;Pantanal
+CEMAVE_18.01;(Finalizado) Pato-mergulhão - 1º ciclo;Cerrado
+CEMAVE_18.01;(Finalizado) Pato-mergulhão - 1º ciclo;Mata Atlântica
+CEMAVE_19.02;(Finalizado) Soldadinho-do-araripe - 2º ciclo;Caatinga
+CEMAVE_20.01;Aves da Mata Atlântica;Mata Atlântica
+CEMAVE_21.02;Papagaios - 2º ciclo;Caatinga
+CEMAVE_21.02;Papagaios - 2º ciclo;Cerrado
+CEMAVE_21.02;Papagaios - 2º ciclo;Pampa
+CEMAVE_21.02;Papagaios - 2º ciclo;Pantanal
+CEMAVE_21.02;Papagaios - 2º ciclo;Amazônia
+CEMAVE_21.02;Papagaios - 2º ciclo;Mata Atlântica
+CEMAVE_22.02;Aves dos Campos Sulinos - 2º ciclo;Mata Atlântica
+CEMAVE_22.02;Aves dos Campos Sulinos - 2º ciclo;Pampa
+CEMAVE_23.02;Pato-mergulhão - 2º ciclo;Cerrado
+CEMAVE_23.02;Pato-mergulhão - 2º ciclo;Mata Atlântica
+CEMAVE_24.01;Aves Marinhas;Marinho
+CEMAVE_25.02;Aves da Caatinga - 2º ciclo;Caatinga
+CEMAVE_26.03;Albatrozes e Petréis - 3º ciclo;Marinho
+CEMAVE_27.02;Ararinha-azul - 2º ciclo;Caatinga
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;Amazônia
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;Cerrado
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;Marinho
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;Mata Atlântica
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;Pantanal
+CEMAVE_28.02;Aves Limícolas Migratórias - 2º ciclo;Pampa
+CEMAVE_29.02;(Elaborado) Aves do Cerrado e Pantanal - 2º ciclo;Cerrado
+CEMAVE_29.02;(Elaborado) Aves do Cerrado e Pantanal - 2º ciclo;Pantanal
+CEMAVE_29.02;(Elaborado) Aves do Cerrado e Pantanal - 2º ciclo;Cerrado
+CEMAVE_29.02;(Elaborado) Aves do Cerrado e Pantanal - 2º ciclo;Pantanal
+CEMAVE_30.02;Aves da Amazônia - 2º ciclo;Amazônia
+CENAP_01.01;(Finalizado) Ariranha - 1º ciclo;Amazônia
+CENAP_01.01;(Finalizado) Ariranha - 1º ciclo;Caatinga
+CENAP_01.01;(Finalizado) Ariranha - 1º ciclo;Cerrado
+CENAP_01.01;(Finalizado) Ariranha - 1º ciclo;Mata Atlântica
+CENAP_01.01;(Finalizado) Ariranha - 1º ciclo;Pampa
+CENAP_01.01;(Finalizado) Ariranha - 1º ciclo;Pantanal
+CENAP_02.01;(Finalizado) Cervídeos;Cerrado
+CENAP_02.01;(Finalizado) Cervídeos;Pantanal
+CENAP_02.01;(Finalizado) Cervídeos;Mata Atlântica
+CENAP_02.01;(Finalizado) Cervídeos;Caatinga
+CENAP_03.01;(Finalizado) Onça-pintada;Amazônia
+CENAP_03.01;(Finalizado) Onça-pintada;Caatinga
+CENAP_03.01;(Finalizado) Onça-pintada;Cerrado
+CENAP_03.01;(Finalizado) Onça-pintada;Mata Atlântica
+CENAP_03.01;(Finalizado) Onça-pintada;Pantanal
+CENAP_04.01;(Finalizado) Onça-parda;Cerrado
+CENAP_04.01;(Finalizado) Onça-parda;Mata Atlântica
+CENAP_04.01;(Finalizado) Onça-parda;Caatinga
+CENAP_05.01;(Finalizado) Lobo-guará;Cerrado
+CENAP_05.01;(Finalizado) Lobo-guará;Mata Atlântica
+CENAP_05.01;(Finalizado) Lobo-guará;Pampa
+CENAP_05.01;(Finalizado) Lobo-guará;Pantanal
+CENAP_06.01;(Finalizado) Cachorro-vinagre;Amazônia
+CENAP_06.01;(Finalizado) Cachorro-vinagre;Cerrado
+CENAP_06.01;(Finalizado) Cachorro-vinagre;Mata Atlântica
+CENAP_06.01;(Finalizado) Cachorro-vinagre;Pantanal
+CENAP_07.01;(Finalizado) Pequenos Felinos - 1º ciclo;Amazônia
+CENAP_07.01;(Finalizado) Pequenos Felinos - 1º ciclo;Caatinga
+CENAP_07.01;(Finalizado) Pequenos Felinos - 1º ciclo;Cerrado
+CENAP_07.01;(Finalizado) Pequenos Felinos - 1º ciclo;Mata Atlântica
+CENAP_07.01;(Finalizado) Pequenos Felinos - 1º ciclo;Pampa
+CENAP_07.01;(Finalizado) Pequenos Felinos - 1º ciclo;Pantanal
+CENAP_08.02;Ariranha - 2º ciclo;Amazônia
+CENAP_08.02;Ariranha - 2º ciclo;Caatinga
+CENAP_08.02;Ariranha - 2º ciclo;Cerrado
+CENAP_08.02;Ariranha - 2º ciclo;Mata Atlântica
+CENAP_08.02;Ariranha - 2º ciclo;Pampa
+CENAP_08.02;Ariranha - 2º ciclo;Pantanal
+CENAP_09.01;Grandes Felinos;Amazônia
+CENAP_09.01;Grandes Felinos;Caatinga
+CENAP_09.01;Grandes Felinos;Cerrado
+CENAP_09.01;Grandes Felinos;Mata Atlântica
+CENAP_09.01;Grandes Felinos;Pampa
+CENAP_09.01;Grandes Felinos;Pantanal
+CENAP_10.01;Canídeos;Amazônia
+CENAP_10.01;Canídeos;Caatinga
+CENAP_10.01;Canídeos;Cerrado
+CENAP_10.01;Canídeos;Mata Atlântica
+CENAP_10.01;Canídeos;Pampa
+CENAP_10.01;Canídeos;Pantanal
+CENAP_11.01;Ungulados;Amazônia
+CENAP_11.01;Ungulados;Caatinga
+CENAP_11.01;Ungulados;Cerrado
+CENAP_11.01;Ungulados;Mata Atlântica
+CENAP_11.01;Ungulados;Pampa
+CENAP_11.01;Ungulados;Pantanal
+CENAP_12.02;Pequenos Felinos - 2º ciclo;Amazônia
+CENAP_12.02;Pequenos Felinos - 2º ciclo;Caatinga
+CENAP_12.02;Pequenos Felinos - 2º ciclo;Cerrado
+CENAP_12.02;Pequenos Felinos - 2º ciclo;Mata Atlântica
+CENAP_12.02;Pequenos Felinos - 2º ciclo;Pampa
+CENAP_12.02;Pequenos Felinos - 2º ciclo;Pantanal
+CENAP_13.01;Pequenos Mamíferos de Áreas Abertas;Caatinga
+CENAP_13.01;Pequenos Mamíferos de Áreas Abertas;Cerrado
+CENAP_13.01;Pequenos Mamíferos de Áreas Abertas;Pampa
+CENAP_13.01;Pequenos Mamíferos de Áreas Abertas;Pantanal
+CENAP_14.01;Pequenos Mamíferos de Áreas Florestais;Amazônia
+CENAP_14.01;Pequenos Mamíferos de Áreas Florestais;Mata Atlântica
+CEPAM_01.01;(Finalizado) Baixo e Médio Xingu;Amazônia
+CEPAM_02.01;Peixes Amazônicos;Amazônia
+CEPENE_01.01;Peixe-boi Marinho;Marinho
+CEPSUL_01.01;(Finalizado) Tubarões - 1º ciclo;Marinho
+CEPSUL_02.01;Corais;Marinho
+CEPSUL_03.01;Lagoas do Sul;Marinho
+CEPSUL_03.01;Lagoas do Sul;Mata Atlântica
+CEPSUL_03.01;Lagoas do Sul;Pampa
+CEPSUL_04.02;(Previsto) Tubarões - 2º ciclo;Marinho
+CEPSUL_05.02;(Previsto) Corais - 2º ciclo;Marinho
+CEPTA_01.01;Paraíba do Sul;Mata Atlântica
+CEPTA_02.01;(Finalizado) Mogi/Pardo/Sapucaí-Mirim/Grande - 1º ciclo;Cerrado
+CEPTA_02.01;(Finalizado) Mogi/Pardo/Sapucaí-Mirim/Grande - 1º ciclo;Mata Atlântica
+CEPTA_03.01;(Finalizado) Rivulideos - 1º ciclo;Caatinga
+CEPTA_03.01;(Finalizado) Rivulideos - 1º ciclo;Cerrado
+CEPTA_03.01;(Finalizado) Rivulideos - 1º ciclo;Mata Atlântica
+CEPTA_03.01;(Finalizado) Rivulideos - 1º ciclo;Pampa
+CEPTA_04.01;(Finalizado) São Francisco - 1º ciclo;Caatinga
+CEPTA_04.01;(Finalizado) São Francisco - 1º ciclo;Cerrado
+CEPTA_04.01;(Finalizado) São Francisco - 1º ciclo;Mata Atlântica
+CEPTA_05.01;Baixo Iguaçu;Mata Atlântica
+CEPTA_06.01;Peixes e Eglas da Mata Atlântica;Mata Atlântica
+CEPTA_07.02;Rivulideos - 2º ciclo;Caatinga
+CEPTA_07.02;Rivulideos - 2º ciclo;Cerrado
+CEPTA_07.02;Rivulideos - 2º ciclo;Mata Atlântica
+CEPTA_07.02;Rivulideos - 2º ciclo;Pampa
+CEPTA_08.02;(Elaborado) São Francisco - 2º ciclo;Mata Atlântica
+CMA_01.01;(Finalizado) Grandes Cetáceos e Pinípedes;Marinho
+CMA_02.01;(Finalizado) Pequenos Cetáceos;Marinho
+CMA_03.01;(Finalizado) Toninha - 1º ciclo;Marinho
+CMA_04.01;(Finalizado) Sirênios;Amazônia
+CMA_04.01;(Finalizado) Sirênios;Marinho
+CMA_05.01;Mamíferos Aquáticos Amazônicos;Amazônia
+CMA_06.01;Cetáceos Marinhos;Marinho
+CMA_07.02;Toninha - 2º ciclo;Marinho
+CNPT_01.01;(Finalizado) Manguezal;Amazônia
+CNPT_01.01;(Finalizado) Manguezal;Mata Atlântica
+CNPT_01.01;(Finalizado) Manguezal;Marinho
+CPB_01.01;(Finalizado) Muriquis;Mata Atlântica
+CPB_02.01;(Finalizado) Ouriço Preto;Mata Atlântica
+CPB_03.01;(Finalizado) Mamíferos da Mata Atlântica Central;Mata Atlântica
+CPB_04.01;(Finalizado) Sauim-de-coleira;Amazônia
+CPB_05.01;(Finalizado) Primatas do Nordeste;Caatinga
+CPB_05.01;(Finalizado) Primatas do Nordeste;Mata Atlântica
+CPB_06.01;(Finalizado) Tatu-bola;Caatinga
+CPB_06.01;(Finalizado) Tatu-bola;Cerrado
+CPB_06.01;(Finalizado) Tatu-bola;Pantanal
+CPB_07.01;Primatas Amazônicos;Amazônia
+CPB_08.02;Primatas do Nordeste - 2º ciclo;Caatinga
+CPB_08.02;Primatas do Nordeste - 2º ciclo;Mata Atlântica
+CPB_09.02;Sauim-de-coleira - 2º ciclo;Amazônia
+CPB_10.01;Primatas da Mata Atlântica e da Preguiça-de-Coleira;Mata Atlântica
+CPB_11.01;Tamanduá-bandeira e Tatus;Amazônia
+CPB_11.01;Tamanduá-bandeira e Tatus;Cerrado
+CPB_11.01;Tamanduá-bandeira e Tatus;Mata Atlântica
+CPB_11.01;Tamanduá-bandeira e Tatus;Pantanal
+CPB_11.01;Tamanduá-bandeira e Tatus;Caatinga
+RAN_01.01;(Finalizado) Herpetofauna Insular;Mata Atlântica
+RAN_02.01;(Finalizado) Herpetofauna da Serra do Espinhaço;Cerrado
+RAN_02.01;(Finalizado) Herpetofauna da Serra do Espinhaço;Mata Atlântica
+RAN_03.01;(Finalizado) Herpetofauna do Sul;Mata Atlântica
+RAN_03.01;(Finalizado) Herpetofauna do Sul;Pampa
+RAN_04.01;(Finalizado) Herpetofauna da MA do Nordeste;Mata Atlântica
+RAN_04.01;(Finalizado) Herpetofauna da MA do Nordeste;Caatinga
+RAN_05.01;(Finalizado) Quelônios Amazônicos;Amazônia
+RAN_06.01;Herpetofauna da MA do Sudeste;Mata Atlântica
+RAN_07.01;CERPAN;Cerrado
+RAN_07.01;CERPAN;Pantanal
+RAN_08.02;Herpetofauna do Espinhaço Mineiro - 2º ciclo;Cerrado
+RAN_08.02;Herpetofauna do Espinhaço Mineiro - 2º ciclo;Mata Atlântica
+RAN_09.02;Herpetofauna do Sul - 2º ciclo;Mata Atlântica
+RAN_09.02;Herpetofauna do Sul - 2º ciclo;Pampa
+RAN_10.02;Herpetofauna do Nordeste - 2º ciclo;Mata Atlântica
+RAN_10.02;Herpetofauna do Nordeste - 2º ciclo;Caatinga
+TAMAR_01.01;(Finalizado) Tartarugas Marinhas  - 1º ciclo;Marinho
+TAMAR_02.02;Tartarugas Marinhas - 2º ciclo;Marinho
