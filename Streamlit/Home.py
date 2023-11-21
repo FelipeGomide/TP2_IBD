@@ -1,5 +1,9 @@
 import streamlit as st
 
+import os
+path_to_find = os.listdir()
+st.title(path_to_find)
+
 # Título:
 st.title("Planos De Ação Nacional Para A Conservação Das Espécies Ameaçadas De Extinção (PAN) :crab:")
 
