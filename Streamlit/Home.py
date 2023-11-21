@@ -16,7 +16,7 @@ st.write("""
 st.subheader('Descrição dos Dados', divider='green')
 
 st.write('Diagrama ER:')
-st.image('images/DiagramaER.jpg')
+st.image('https://github.com/FelipeGomide/TP2_IBD/blob/main/Streamlit/Images/DiagramaER.jpg?raw=true')
 
 st.write('Diagrama Relacional:')
-st.image('images/DiagramaRelacional.png')
+st.image('https://github.com/FelipeGomide/TP2_IBD/blob/main/Streamlit/Images/DiagramaRelacional.png?raw=true')
