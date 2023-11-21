@@ -16,7 +16,7 @@ st.write("""
 st.subheader('Descrição dos Dados', divider='green')
 
 st.write('Diagrama ER:')
-st.image('/mount/src/tp2_ibd/images/DiagramaER.jpg')
+st.image('images/DiagramaER.jpg')
 
 st.write('Diagrama Relacional:')
-st.image('/mount/src/tp2_ibd/images/DiagramaRelacional.png')
+st.image('images/DiagramaRelacional.png')
