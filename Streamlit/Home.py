@@ -13,7 +13,7 @@ st.write("""
 st.subheader('Descrição dos Dados', divider='green')
 
 st.write('Diagrama ER:')
-st.image('images/DiagramaER.jpg')
+st.image('./images/DiagramaER.jpg')
 
 st.write('Diagrama Relacional:')
-st.image('images/DiagramaRelacional.png')
+st.image('./images/DiagramaRelacional.png')
