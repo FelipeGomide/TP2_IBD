@@ -1,7 +1,4 @@
 import streamlit as st
-import os
-cwd = os.getcwd()
-st.write(cwd)
 
 # Título:
 st.title("Planos De Ação Nacional Para A Conservação Das Espécies Ameaçadas De Extinção (PAN) :crab:")
