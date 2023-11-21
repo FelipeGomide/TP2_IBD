@@ -1,9 +1,5 @@
 import streamlit as st
 
-import os
-cwd = os.getcwd()
-st.write(cwd)
-
 # Título:
 st.title("Planos De Ação Nacional Para A Conservação Das Espécies Ameaçadas De Extinção (PAN) :crab:")
 
@@ -17,7 +13,7 @@ st.write("""
 st.subheader('Descrição dos Dados', divider='green')
 
 st.write('Diagrama ER:')
-st.image('/mount/src/tp2_ibd/images/DiagramaER.jpg')
+st.image('./images/DiagramaER.jpg')
 
 st.write('Diagrama Relacional:')
-st.image('/mount/src/tp2_ibd/images/DiagramaRelacional.png')
+st.image('./images/DiagramaRelacional.png')
